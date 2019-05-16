@@ -9,7 +9,7 @@ categories: jekyll update
 <h2>리스트</h2>
 <ul style="list-style-type:disc;">
 <li><t> 벚꽃</t><br>
-  <iframe width="420" height="345" src="https://www.youtube.com/embed/Hm587hwUQmw ">
+  <iframe width="420" height="345" url="https://youtu.be/Hm587hwUQmw">
 </iframe> 
 </li>
  <li><t> Time to love</t><br>
