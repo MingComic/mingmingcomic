@@ -1,4 +1,4 @@
-echo "#mingmingcomic" >> README.md
+echo "# mingmingcomic" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
